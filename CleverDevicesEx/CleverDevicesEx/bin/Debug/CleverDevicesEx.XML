@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CleverDevicesEx</name>
+    </assembly>
+    <members>
+        <member name="M:CleverDevicesEx.Program.UnhandledExceptionTrapper(System.Object,System.UnhandledExceptionEventArgs)">
+             <summary>
+             The UnhandledExceptionTrapper() method sets up a system-wide
+             exception trapper that will catch all exceptions that
+             occur after the code execution enters the Main() method.
+             The errors will be displayed in the console output
+             window and the application will let the user know that
+             it will exit.
+            </summary>
+        </member>
+        <member name="M:CleverDevicesEx.Program.RunSentenceReverserTest">
+            <summary>
+            Acquire a string of words and 
+            return a string with the words in reversed order.
+            </summary>
+        </member>
+        <member name="M:CleverDevicesEx.Program.RunStackTest">
+            <summary>
+            Implement a class that uses the Stack of T 
+            functionality that is built into the dotNet framework.
+            Includes support for Push, Pop, Peek and Size 
+            </summary>
+        </member>
+        <member name="M:CleverDevicesEx.Program.RunCustomStackTest">
+            <summary>
+            A custom implementation of the built in C# Stack object,
+            using an array.
+            Demonstrates support for PUSH, POP and PEEK methods.
+            </summary>
+        </member>
+        <member name="M:CleverDevicesEx.Program.RunFindCommonLettersInTwoStringsTest">
+            <summary>
+            Acquire two strings of letters
+            and find the letters that are 
+            common between both
+            </summary>
+        </member>
+        <member name="M:CleverDevicesEx.Program.RunFibonacciSequenceTest">
+            <summary>
+            This method acquires an integer input
+            and then computes a fibonacci sequnce for it.
+            The fibonacci sequence is returns as a list of ints
+            </summary>
+        </member>
+        <member name="M:CleverDevicesEx.Program.RunactorsTest">
+            <summary>
+            This test takes in one number an produces 
+            a sequence of "factors".
+            Factors of a number are all those numbers
+            that can divide evenly into the number
+            with no remainder.
+            </summary>
+        </member>
+    </members>
+</doc>

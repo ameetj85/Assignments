@@ -1,5 +1,5 @@
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesSentenceReverserTest\bin\Debug\CleverDevicesSentenceReverserTest.dll
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesSentenceReverserTest\bin\Debug\CleverDevicesSentenceReverserTest.pdb
-C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesSentenceReverserTest\obj\Debug\CleverDevicesSentenceReverserTest.csprojResolveAssemblyReference.cache
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesSentenceReverserTest\obj\Debug\CleverDevicesSentenceReverserTest.dll
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesSentenceReverserTest\obj\Debug\CleverDevicesSentenceReverserTest.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesSentenceReverserTest\obj\Debug\CleverDevicesSentenceReverserTest.csprojResolveAssemblyReference.cache

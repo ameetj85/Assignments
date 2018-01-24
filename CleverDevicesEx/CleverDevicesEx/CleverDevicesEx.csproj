@@ -21,6 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\CleverDevicesEx.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,6 +50,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CleverDevicesFactorsNumbers\CleverDevicesFactorsNumbers.csproj">
+      <Project>{4fed3dbf-22a7-449d-992d-eb811b75d5d4}</Project>
+      <Name>CleverDevicesFactorsNumbers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CleverDevicesFibonacci\CleverDevicesFibonacci.csproj">
+      <Project>{ee2d3718-5d98-459e-ae53-ddc236e1728b}</Project>
+      <Name>CleverDevicesFibonacci</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CleverDevicesFindCommonCharsInTwoStrings\CleverDevicesFindCommonCharsInTwoStrings.csproj">
       <Project>{fafc976c-50c4-421a-808d-6157c55611ca}</Project>
       <Name>CleverDevicesFindCommonCharsInTwoStrings</Name>
@@ -56,6 +65,10 @@
     <ProjectReference Include="..\CleverDevicesSentenceReverserTest\CleverDevicesSentenceReverserTest.csproj">
       <Project>{39d0db23-afd7-4000-a9a3-dce201840779}</Project>
       <Name>CleverDevicesSentenceReverserTest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CleverDevicesStack\CleverDevicesStack.csproj">
+      <Project>{9c4b8b84-0d7b-43f6-94a1-c7fa5696b11a}</Project>
+      <Name>CleverDevicesStack</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

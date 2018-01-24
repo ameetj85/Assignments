@@ -2,3 +2,4 @@ C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStac
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStack\bin\Debug\CleverDevicesStack.pdb
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStack\obj\Debug\CleverDevicesStack.dll
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStack\obj\Debug\CleverDevicesStack.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStack\obj\Debug\CleverDevicesStack.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\bin\Debug\CleverDevicesStackTests.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\bin\Debug\CleverDevicesStackTests.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\bin\Debug\CleverDevicesStack.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\bin\Debug\CleverDevicesStack.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\obj\Debug\CleverDevicesStackTests.csprojResolveAssemblyReference.cache
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\obj\Debug\CleverDevicesStackTests.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesStackTests\obj\Debug\CleverDevicesStackTests.pdb

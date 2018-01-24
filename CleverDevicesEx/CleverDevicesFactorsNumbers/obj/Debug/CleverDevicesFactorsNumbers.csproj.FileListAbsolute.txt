@@ -1,0 +1,4 @@
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFactorsNumbers\bin\Debug\CleverDevicesFactorsNumbers.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFactorsNumbers\bin\Debug\CleverDevicesFactorsNumbers.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFactorsNumbers\obj\Debug\CleverDevicesFactorsNumbers.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFactorsNumbers\obj\Debug\CleverDevicesFactorsNumbers.pdb

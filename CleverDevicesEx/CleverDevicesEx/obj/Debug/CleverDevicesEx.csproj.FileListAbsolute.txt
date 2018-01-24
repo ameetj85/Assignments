@@ -8,3 +8,10 @@ C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\b
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\obj\Debug\CleverDevicesEx.csprojResolveAssemblyReference.cache
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFindCommonCharsInTwoStrings.dll
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFindCommonCharsInTwoStrings.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesStack.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesStack.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesEx.XML
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFibonacci.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFibonacci.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFactorsNumbers.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFactorsNumbers.pdb

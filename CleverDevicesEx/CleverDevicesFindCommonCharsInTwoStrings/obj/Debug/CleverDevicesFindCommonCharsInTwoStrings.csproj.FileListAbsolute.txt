@@ -2,3 +2,4 @@ C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFind
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFindCommonCharsInTwoStrings\bin\Debug\CleverDevicesFindCommonCharsInTwoStrings.pdb
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFindCommonCharsInTwoStrings\obj\Debug\CleverDevicesFindCommonCharsInTwoStrings.dll
 C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFindCommonCharsInTwoStrings\obj\Debug\CleverDevicesFindCommonCharsInTwoStrings.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesFindCommonCharsInTwoStrings\obj\Debug\CleverDevicesFindCommonCharsInTwoStrings.csprojResolveAssemblyReference.cache
