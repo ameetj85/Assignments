@@ -1,0 +1,10 @@
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesEx.exe.config
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesEx.exe
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesEx.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\obj\Debug\CleverDevicesEx.exe
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\obj\Debug\CleverDevicesEx.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesSentenceReverserTest.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesSentenceReverserTest.pdb
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\obj\Debug\CleverDevicesEx.csprojResolveAssemblyReference.cache
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFindCommonCharsInTwoStrings.dll
+C:\Users\Ameet\Downloads\Resume\Clever Devices\CleverDevicesEx\CleverDevicesEx\bin\Debug\CleverDevicesFindCommonCharsInTwoStrings.pdb

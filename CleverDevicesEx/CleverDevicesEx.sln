@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverDevicesEx", "CleverDevicesEx\CleverDevicesEx.csproj", "{5A3A7CA2-C6F9-4307-84AF-32EFBE35B3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverDevicesSentenceReverserTest", "CleverDevicesSentenceReverserTest\CleverDevicesSentenceReverserTest.csproj", "{39D0DB23-AFD7-4000-A9A3-DCE201840779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverDevicesFindCommonCharsInTwoStrings", "CleverDevicesFindCommonCharsInTwoStrings\CleverDevicesFindCommonCharsInTwoStrings.csproj", "{FAFC976C-50C4-421A-808D-6157C55611CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleverDevicesStack", "CleverDevicesStack\CleverDevicesStack.csproj", "{9C4B8B84-0D7B-43F6-94A1-C7FA5696B11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A3A7CA2-C6F9-4307-84AF-32EFBE35B3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3A7CA2-C6F9-4307-84AF-32EFBE35B3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3A7CA2-C6F9-4307-84AF-32EFBE35B3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3A7CA2-C6F9-4307-84AF-32EFBE35B3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D0DB23-AFD7-4000-A9A3-DCE201840779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D0DB23-AFD7-4000-A9A3-DCE201840779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D0DB23-AFD7-4000-A9A3-DCE201840779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D0DB23-AFD7-4000-A9A3-DCE201840779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFC976C-50C4-421A-808D-6157C55611CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFC976C-50C4-421A-808D-6157C55611CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFC976C-50C4-421A-808D-6157C55611CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFC976C-50C4-421A-808D-6157C55611CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4B8B84-0D7B-43F6-94A1-C7FA5696B11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4B8B84-0D7B-43F6-94A1-C7FA5696B11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4B8B84-0D7B-43F6-94A1-C7FA5696B11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4B8B84-0D7B-43F6-94A1-C7FA5696B11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
